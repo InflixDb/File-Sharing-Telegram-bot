@@ -11,10 +11,10 @@ async def cb_handler(client, query: CallbackQuery):
             text=(
                 "<b> ⟦⟧ Hi There Vro!💫\n"
                 "┏━━━━━━━❪❂❫━━━━━━━━\n"
-                "◈ ᴄʀᴇᴀᴛᴏʀ: <a href='https://t.me/Harem_network'>Ʉ₦₭Ø₩₦</a>\n"
-                "◈ ꜰᴏᴜɴᴅᴇʀ ᴏꜰ : <a href='https://t.me/Harem_network'>ᴄᴜʟᴛᴜʀᴇᴅ</a>\n"
-                "◈ ʜᴇɴᴛᴀɪ : <a href='https://t.me/Harem_network'>ʜᴇɴᴛᴀɪ</a>\n"
-                "◈ɪɴᴅɪᴀɴ ʟᴇᴀᴋs: <a href='https://t.me/Harem_network'>ɪɴᴅɪᴀɴ ʟᴇᴀᴋs</a>\n"
+                "◈ ᴄʀᴇᴀᴛᴏʀ: <a href='https://t.me/Eminence_Darling'>Ʉ₦₭Ø₩₦</a>\n"
+                "◈ ꜰᴏᴜɴᴅᴇʀ ᴏꜰ : <a href='https://t.me/Eminence_Darling'>ᴄᴜʟᴛᴜʀᴇᴅ</a>\n"
+                "◈ ʜᴇɴᴛᴀɪ : <a href='https://t.me/Eminence_Darling'>ʜᴇɴᴛᴀɪ</a>\n"
+                "◈ɪɴᴅɪᴀɴ ʟᴇᴀᴋs: <a href='https://t.me/Eminence_Darling'>ɪɴᴅɪᴀɴ ʟᴇᴀᴋs</a>\n"
                 "┗━━━━━━━❪❂❫━━━━━━━━</b>"
             ),
             disable_web_page_preview=True,
@@ -51,7 +51,7 @@ async def cb_handler(client, query: CallbackQuery):
                 f"ᴏᴡɴᴇʀ ɪᴅ: <code>{UPI_ID}</code>\n\n"
                 f"📸ғᴏʀ ʙᴜʏɪɴɢ ᴘʀᴇᴍɪᴜᴍ ᴅᴍ (<a href='{UPI_IMAGE_URL}'>ᴘᴀʏᴍᴇɴᴛ ʟɪɴᴋ</a>)\n"
                 "♻️ ᴡᴀɴᴛ ᴛᴏ ʙᴜʏ?\n"
-                "ғᴏʀ ᴘᴀʏᴍᴇɴᴛ ᴅᴍ @Ffgmnhgffghh\n"
+                "ғᴏʀ ᴘᴀʏᴍᴇɴᴛ ᴅᴍ @Saitama_One_Punchh\n"
                 "<b>ᴡᴇ ʜᴀᴠᴇ ʟɪᴍɪᴛᴇᴅ sᴇᴀᴛs ғᴏʀ ᴘʀɪᴍᴇ ᴜsᴇʀs</b>"
             ),
             disable_web_page_preview=True,
