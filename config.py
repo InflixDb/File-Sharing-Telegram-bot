@@ -60,10 +60,10 @@ https://dashboard.shareus.io/
 # TRUE for yes FALSE if no 
 USE_SHORTLINK = True if os.environ.get('USE_SHORTLINK', "TRUE") == "TRUE" else False 
 # only shareus service known rightnow rest you can test on your own
-SHORTLINK_API_URL = os.environ.get("SHORTLINK_API_URL", "modijiurl.com")
+SHORTLINK_API_URL = os.environ.get("SHORTLINK_API_URL", "bharatlinks.com")
 # SHORTLINK_API_KEY = os.environ.get("SHORTLINK_API_KEY", "")
 #use this key if not working ☠️ (jokin!!)
-SHORTLINK_API_KEY = os.environ.get("SHORTLINK_API_KEY", "437982ff8d264c9f6064a7aad2800afbdf840a77")
+SHORTLINK_API_KEY = os.environ.get("SHORTLINK_API_KEY", "1bbd4bfdcd1a5d921b6ae5d27deaf752fda9b6bf")
 #add your custom time in secs for shortlink expiration.
 # 24hr = 86400
 # 12hr = 43200
@@ -81,7 +81,7 @@ TUT_VID = os.environ.get("TUT_VID","https://t.me/hentai_hindi_dubbed/72")
 #put TRUE if you want this feature
 USE_PAYMENT = True if (True if os.environ.get("USE_PAYMENT","TRUE") == "TRUE" else False) and (USE_SHORTLINK) else False
 #UPI ID
-UPI_ID = os.environ.get("UPI_ID", "𝗗𝗺 - @Ayanakaji")
+UPI_ID = os.environ.get("UPI_ID", "𝗗𝗺 - @Saitama_One_Punchh")
 #UPI QR CODE IMAGE
 UPI_IMAGE_URL = os.environ.get("UPI_IMAGE_URL", "https://t.me//Ayanakaji")
 #SCREENSHOT URL of ADMIN for verification of payments
@@ -114,7 +114,7 @@ DISABLE_CHANNEL_BUTTON = True if os.environ.get("DISABLE_CHANNEL_BUTTON", "TRUE"
 
 #add admins with space seperated
 # 7195990000 289371935 248979023
-ADMIN_LIST = os.environ.get("ADMINS", "5792873052 7426698861 7195990500").split()
+ADMIN_LIST = os.environ.get("ADMINS", "5696981073 7195990500").split()
 
 
 
